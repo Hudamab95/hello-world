@@ -1,4 +1,2 @@
-# hello-world
-## *huda mabkhoot*
-**27**,
-**MBA student**
+# About me
+## *my name is huda mabkhoot*
